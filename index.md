@@ -157,7 +157,15 @@ the [discussions][download] for the latest puppylinux woof builds.
 [download]: download.html
 
 
+### Other community distributions
+Puppy community members have utilzed other build scripts besides Woof-CE to produce various "kennel mates". 
 
+While not true Puppies, they share many common features and contributions.
+
+[Other distributions][other]
+
+[other]: other-projects.html
+<br><br>
 <p align="center">
  <a href="https://distrowatch.com/table.php?distribution=puppy">DistroWatch Rankings</a>
 </p>
