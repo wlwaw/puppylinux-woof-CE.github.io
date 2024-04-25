@@ -159,7 +159,6 @@ the [discussions][download] for the latest puppylinux woof builds.
 
 ### Other community distributions
 Puppy community members have utilzed other build scripts besides Woof-CE to produce various "kennel mates". 
-
 While not true Puppies, they share many common features and contributions.
 
 [Other distributions][other]
